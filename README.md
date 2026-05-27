@@ -1,6 +1,7 @@
 # Paquete de reproducibilidad — AG-0.9-2026
 
 **Estudio:** Aprendizaje automático interpretable para estratificar el riesgo de eventos adversos materno-perinatales en La Guajira (Colombia), 2016–2022.
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Aslin-B/reproducibilidad-mme-laguajira/blob/main/colab_replicabilidad_MME_LaGuajira.ipynb)
 
 **Revista destino:** Revista Facultad Nacional de Salud Pública, Universidad de Antioquia.
 
